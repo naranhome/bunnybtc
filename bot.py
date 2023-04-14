@@ -42,4 +42,4 @@ async def track(ctx, transaction_id):
     else:
         await ctx.send('An error occurred while fetching the transaction data')
 
-bot.run('MTA5NTY4MjUxNzE4MjQ1OTk3NA.G57-IF.JONhnpF7-id_OHyp-zToRwLSJGcMYoXa5b718Q')
+bot.run('token')
